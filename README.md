@@ -13,27 +13,31 @@ Progression Quest
 
 
 Summer Game Project
-A beach volleyball themed game I made as part of a game jam in summer of 2024
+-A beach volleyball themed game I made as part of a game jam in summer of 2024
 
-Note: Requires two players
+-Note: Requires two players
 
 [Play it here!](https://is-void.itch.io/summer-game-project)
 
 
 ## 💻 Other Projects
 Story Engine
-An ongoing project to create an all-inclusive story creation enviroment
+-An ongoing project to create an all-inclusive story creation enviroment
+
 [See the code!](https://github.com/is-void/StoryEngine)
 
 Kanji Helper
+A lightweight tool to help Japanese learners deciper the meaning of a Kanji
+
 [See the code!](https://github.com/is-void/KanjiHelper)
 
 
 ## 📚 Writing
 Recipient of Middlebury's 2024 Ward Prize for "Banning Tiktok Misses the Point"
+
 [Read it here!](https://pressbooks.middcreate.net/wardprizewriting2023to2024/chapter/chapter-1/)
 
-Personal paper about English linguistics
+A shorter personal paper about my relationship with English linguistically
 
 [Read it here!](https://jmp.sh/bWQhHEdY)
 
