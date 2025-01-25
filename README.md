@@ -6,13 +6,19 @@ Here you can find some of my programming projects, as well as some of the papers
 
 ## 🎮 Game Projects
 Progression Quest
+
 (Play it here!)[https://is-void.itch.io/progression-quest]
+
 (See the code!)[https://github.com/is-void/ProgressionQuest]
+
 
 Summer Game Project
 A beach volleyball themed game I made as part of a game jam in summer of 2024
-Requires two players
+
+- Requires two players
+
 (Play it here!)[https://is-void.itch.io/summer-game-project]
+
 
 ## 💻 Other Projects
 Story Engine
@@ -25,7 +31,9 @@ Kanji Helper
 ## 📚 Writing
 Recipient of Middlebury's 2024 Ward Prize for "Banning Tiktok Misses the Point"
 (Read it here!)[https://pressbooks.middcreate.net/wardprizewriting2023to2024/chapter/chapter-1/]
-English Lingustics Personal Paper
+
+Personal paper about English linguistics
+
 (Read it here!)[https://jmp.sh/bWQhHEdY]
 
 
