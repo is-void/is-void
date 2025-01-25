@@ -5,14 +5,15 @@ Here you can find some of my programming projects, as well as some of the papers
 
 
 ## 🎮 Game Projects
-Progression Quest
+### Progression Quest
+A feature complete game featuing 4 different gamemodes.
 
 [Play it here!](https://is-void.itch.io/progression-quest)
 
 [See the code!](https://github.com/is-void/ProgressionQuest)
 
 
-Summer Game Project
+### Summer Game Project
 -A beach volleyball themed game I made as part of a game jam in summer of 2024
 
 -Note: Requires two players
@@ -21,19 +22,21 @@ Summer Game Project
 
 
 ## 💻 Other Projects
-Story Engine
+### Story Engine
 -An ongoing project to create an all-inclusive story creation enviroment
 
 [See the code!](https://github.com/is-void/StoryEngine)
 
-Kanji Helper
-A lightweight tool to help Japanese learners deciper the meaning of a Kanji
+### Kanji Helper
+- A lightweight tool to help Japanese learners deciper the meaning of a Kanji
 
 [See the code!](https://github.com/is-void/KanjiHelper)
 
 
 ## 📚 Writing
-Recipient of Middlebury's 2024 Ward Prize for "Banning Tiktok Misses the Point"
+
+### Banning TikTok Misses the Point
+- Recipient of Middlebury's 2024 Ward Prize
 
 [Read it here!](https://pressbooks.middcreate.net/wardprizewriting2023to2024/chapter/chapter-1/)
 
@@ -42,7 +45,7 @@ A shorter personal paper about my relationship with English linguistically
 [Read it here!](https://jmp.sh/bWQhHEdY)
 
 
-See more by looking at my public repositories!
+See more projects by looking at my public repositories!
 
 <!--
 **is-void/is-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
