@@ -15,7 +15,7 @@ Progression Quest
 Summer Game Project
 A beach volleyball themed game I made as part of a game jam in summer of 2024
 
-- Requires two players
+Note: Requires two players
 
 (Play it here!)[https://is-void.itch.io/summer-game-project]
 
@@ -24,6 +24,7 @@ A beach volleyball themed game I made as part of a game jam in summer of 2024
 Story Engine
 An ongoing project to create an all-inclusive story creation enviroment
 (See the code!)[https://github.com/is-void/StoryEngine]
+
 Kanji Helper
 (See the code!)[https://github.com/is-void/KanjiHelper]
 
