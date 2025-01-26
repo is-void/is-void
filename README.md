@@ -6,7 +6,8 @@ Here you can find some of my programming projects, as well as some of the papers
 
 ## 🎮 Game Projects
 ### Progression Quest
-A feature complete game featuing 4 different gamemodes.
+- A feature complete game featuing 4 different gamemodes.
+- I worked on the project with a mentor over the course of a sememster.
 
 [Play it here!](https://is-void.itch.io/progression-quest)
 
@@ -14,16 +15,15 @@ A feature complete game featuing 4 different gamemodes.
 
 
 ### Summer Game Project
--A beach volleyball themed game I made as part of a game jam in summer of 2024
-
--Note: Requires two players
+- A beach volleyball themed game I made as part of a game jam in summer of 2024
+- Note: Requires two players
 
 [Play it here!](https://is-void.itch.io/summer-game-project)
 
 
 ## 💻 Other Projects
 ### Story Engine
--An ongoing project to create an all-inclusive story creation enviroment
+-An ongoing project to create an all-inclusive standalone story creation enviroment
 
 [See the code!](https://github.com/is-void/StoryEngine)
 
