@@ -36,11 +36,13 @@ A feature complete game featuing 4 different gamemodes.
 ## 📚 Writing
 
 ### Banning TikTok Misses the Point
-- Recipient of Middlebury's 2024 Ward Prize
+-🏆Winner of The Paul W. Ward ‘24 Memorial Prize🏆
 
 [Read it here!](https://pressbooks.middcreate.net/wardprizewriting2023to2024/chapter/chapter-1/)
 
-A shorter personal paper about my relationship with English linguistically
+###The English I Know
+
+-A shorter personal paper about my relationship with English linguistically
 
 [Read it here!](https://jmp.sh/kUiTRn0W)
 
