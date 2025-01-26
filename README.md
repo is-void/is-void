@@ -23,7 +23,7 @@ Here you can find some of my programming projects, as well as some of the papers
 
 ## 💻 Other Projects
 ### Story Engine
--An ongoing project to create an all-inclusive standalone story creation enviroment
+- An ongoing project to create an all-inclusive standalone story creation enviroment
 
 [See the code!](https://github.com/is-void/StoryEngine)
 
@@ -40,7 +40,7 @@ Here you can find some of my programming projects, as well as some of the papers
 
 [Read it here!](https://pressbooks.middcreate.net/wardprizewriting2023to2024/chapter/chapter-1/)
 
-###The English I Know
+### The English I Know
 
 -A shorter personal paper about my relationship with English linguistically
 
