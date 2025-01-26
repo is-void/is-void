@@ -42,7 +42,7 @@ Here you can find some of my programming projects, as well as some of the papers
 
 ### The English I Know
 
-- A shorter personal paper about my relationship with English linguistically
+- A shorter personal paper about my relationship with the English language with a focus on lingusitics 
 
 [Read it here!](https://jmp.sh/kUiTRn0W)
 
