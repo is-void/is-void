@@ -42,7 +42,7 @@ A feature complete game featuing 4 different gamemodes.
 
 A shorter personal paper about my relationship with English linguistically
 
-[Read it here!](https://jmp.sh/bWQhHEdY)
+[Read it here!](https://jmp.sh/kUiTRn0W)
 
 
 See more projects by looking at my public repositories!
