@@ -5,6 +5,10 @@ Here you can find some of my programming projects, as well as some of the papers
 
 
 ## 🎮 Game Projects
+### Dokonimo
+- An ongoing project featuring top down beat-em-up style combat fully modular items and weapons
+- Stil in very early access
+
 ### Progression Quest
 - A feature complete game featuing 4 different gamemodes.
 - I worked on the project with a mentor over the course of a sememster.
