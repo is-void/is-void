@@ -1,5 +1,5 @@
 ## Welcome to my Github 👋
-I'm a 2nd year student at Middlebury college with a love for programming, gaming, and reading!
+I'm a 3rd year student at Middlebury college with a love for programming, gaming, and reading!
 
 Here you can find some of my programming projects, as well as some of the papers I've written
 
