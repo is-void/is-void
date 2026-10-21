@@ -1,40 +1,34 @@
 ## Welcome to my Github 👋
-I'm a 4th year student at Middlebury college with a love for programming, gaming, and reading!
+4th year student at Middlebury college
+Computer Science and Japanese double major
 
 Here you can find some of my programming projects, as well as some of the papers I've written
+
+## Computer Graphics 💻
+
+### Surface Water Simulation
+- Utilizes Unity Computer Shaders and HLSL shaders for dynamic, semi-realistic water that is affected by the movement of objects
+- Normal, foam, height, and velocity outputs from the comptue shader efficiently run across patches using an LOD system
+- Planar reflections with an optional cubemap-based implementation 
+
 
 
 ## 🎮 Game Projects
 ### Dokonimo
-- An ongoing project featuring top down beat-em-up style combat fully modular items and weapons
-- Stil in very early access
+- A project featuring top down beat-em-up style combat and fully modular items and weapons
+- Dynamic frame-data handling and inventory system
 
-### Progression Quest
-- A feature complete game featuing 4 different gamemodes.
-- I worked on the project with a mentor over the course of a sememster.
-
-[Play it here!](https://is-void.itch.io/progression-quest)
-
-[See the code!](https://github.com/is-void/ProgressionQuest)
-
+## 🧑‍💻 Software
+### Snowcial
+- A lightweight React-based social media platform designed to help students to find groups and coordinate transportation for winter activities
+- Created with a small team of fellow students
 
 ### Summer Game Project
 - A beach volleyball themed game I made as part of a game jam in summer of 2024
-- Note: Requires two players
+- Features controller support
 
 [Play it here!](https://is-void.itch.io/summer-game-project)
 
-
-## 💻 Other Projects
-### Story Engine
-- An ongoing project to create an all-inclusive standalone story creation enviroment
-
-[See the code!](https://github.com/is-void/StoryEngine)
-
-### Kanji Helper
-- A lightweight tool to help Japanese learners deciper the meaning of a Kanji
-
-[See the code!](https://github.com/is-void/KanjiHelper)
 
 
 ## 📚 Writing
@@ -44,26 +38,6 @@ Here you can find some of my programming projects, as well as some of the papers
 
 [Read it here!](https://pressbooks.middcreate.net/wardprizewriting2023to2024/chapter/chapter-1/)
 
-### The English I Know
-
-- A shorter personal paper about my relationship with the English language with a focus on lingusitics 
-
-[Read it here!](https://jmp.sh/kUiTRn0W)
-
 
 See more projects by looking at my public repositories!
 
-<!--
-**is-void/is-void** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
